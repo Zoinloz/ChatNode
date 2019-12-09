@@ -1,0 +1,19 @@
+{
+  "name": "npmtp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tp.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.14",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Tp.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
